@@ -1,0 +1,5 @@
+C:\Users\nafanasev\Documents\Visual Studio 2013\Projects\ConsolePet\ConsolePet\bin\Debug\ConsolePet.exe.config
+C:\Users\nafanasev\Documents\Visual Studio 2013\Projects\ConsolePet\ConsolePet\bin\Debug\ConsolePet.exe
+C:\Users\nafanasev\Documents\Visual Studio 2013\Projects\ConsolePet\ConsolePet\bin\Debug\ConsolePet.pdb
+C:\Users\nafanasev\Documents\Visual Studio 2013\Projects\ConsolePet\ConsolePet\obj\Debug\ConsolePet.exe
+C:\Users\nafanasev\Documents\Visual Studio 2013\Projects\ConsolePet\ConsolePet\obj\Debug\ConsolePet.pdb
